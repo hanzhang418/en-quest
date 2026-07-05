@@ -3,3 +3,6 @@ An INFJ SRE's journey to master English, from Shanghai to Berlin. Focuses on pro
 
 # Core Spoken Vocabulary
 P45
+
+# EnglishPod
+P51
