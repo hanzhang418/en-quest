@@ -8,14 +8,14 @@ P45
 P52
 
 # How to Live
-6
+Make Memories
 
 # Family Album U.S.A
 A Piece of Cake
 
 # Grammar in Use
 ## Essential
-P85 - P47
+P93 - P62
 
 # New Concept English
 ## Book 1
