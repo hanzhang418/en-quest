@@ -15,8 +15,8 @@ A Piece of Cake
 
 # Grammar in Use
 ## Essential
-P97 - P71
+P104 - P88
 
 # New Concept English
 ## Book 1
-P41
+P61
