@@ -16,7 +16,7 @@ A Piece of Cake
 
 # Grammar in Use
 ## Essential
-Extra Exercises - Finished
+Extra Exercises - Study Guide Finish
 
 # New Concept English
 ## Book 1
